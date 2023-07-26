@@ -1,0 +1,4000 @@
+calibration {
+  speed: 0.10000000149011612
+  acceleration: -3.2600600719451904
+  command: -100.0
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: -3.268228530883789
+  command: -94.7421052631579
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: -3.280848741531372
+  command: -89.48421052631579
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: -3.2866291999816895
+  command: -84.22631578947369
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: -3.2475085258483887
+  command: -78.96842105263158
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: -3.095543622970581
+  command: -73.71052631578948
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: -2.8619940280914307
+  command: -68.45263157894736
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: -2.6927061080932617
+  command: -63.19473684210526
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: -2.5616910457611084
+  command: -57.93684210526315
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: -2.391132116317749
+  command: -52.67894736842105
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: -2.190986394882202
+  command: -47.421052631578945
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: -1.9640142917633057
+  command: -42.163157894736834
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: -1.7009565830230713
+  command: -36.90526315789473
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: -1.4470489025115967
+  command: -31.64736842105262
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: -1.2285919189453125
+  command: -26.389473684210515
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: -0.9929649829864502
+  command: -21.13157894736841
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: -0.7024128437042236
+  command: -15.873684210526307
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: -0.42142271995544434
+  command: -10.615789473684202
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: -0.11351609230041504
+  command: -5.357894736842098
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: 0.29618096351623535
+  command: -0.1
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: 0.19555795192718506
+  command: 0.1
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: 0.2707552909851074
+  command: 4.215789634303043
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: 0.3678654432296753
+  command: 8.331579268606086
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: 0.4901702105998993
+  command: 12.44736890290913
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: 0.6364418268203735
+  command: 16.563158537212175
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: 0.7992074489593506
+  command: 20.678948171515216
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: 0.9671305418014526
+  command: 24.79473780581826
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: 1.1306877136230469
+  command: 28.910527440121307
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: 1.2870149612426758
+  command: 33.02631707442435
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: 1.4415137767791748
+  command: 37.14210670872739
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: 1.6041823625564575
+  command: 41.25789634303043
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: 1.775387167930603
+  command: 45.37368597733348
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: 1.9336986541748047
+  command: 49.48947561163652
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: 2.0573205947875977
+  command: 53.60526524593956
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: 2.1451213359832764
+  command: 57.72105488024261
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: 2.2062714099884033
+  command: 61.83684451454565
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: 2.249277114868164
+  command: 65.95263414884869
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: 2.280017852783203
+  command: 70.06842378315173
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: 2.302398443222046
+  command: 74.18421341745477
+}
+calibration {
+  speed: 0.10000000149011612
+  acceleration: 2.3190152645111084
+  command: 78.30000305175781
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: -3.776069402694702
+  command: -100.0
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: -3.8646650314331055
+  command: -94.7421052631579
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: -3.965423107147217
+  command: -89.48421052631579
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: -4.066187381744385
+  command: -84.22631578947369
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: -4.128763198852539
+  command: -78.96842105263158
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: -4.080048561096191
+  command: -73.71052631578948
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: -3.926689624786377
+  command: -68.45263157894736
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: -3.8089754581451416
+  command: -63.19473684210526
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: -3.7141082286834717
+  command: -57.93684210526315
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: -3.5630388259887695
+  command: -52.67894736842105
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: -3.361538887023926
+  command: -47.421052631578945
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: -3.105658531188965
+  command: -42.163157894736834
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: -2.7797470092773438
+  command: -36.90526315789473
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: -2.4310147762298584
+  command: -31.64736842105262
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: -2.1001811027526855
+  command: -26.389473684210515
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: -1.750162124633789
+  command: -21.13157894736841
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: -1.3520848751068115
+  command: -15.873684210526307
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: -0.9716999530792236
+  command: -10.615789473684202
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: -0.5671525001525879
+  command: -5.357894736842098
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: -0.08490490913391113
+  command: -0.1
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: 0.16504502296447754
+  command: 0.1
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: 0.23787659406661987
+  command: 4.215789634303043
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: 0.33305150270462036
+  command: 8.331579268606086
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: 0.4540591239929199
+  command: 12.44736890290913
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: 0.5999069809913635
+  command: 16.563158537212175
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: 0.7633572816848755
+  command: 20.678948171515216
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: 0.9332735538482666
+  command: 24.79473780581826
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: 1.1002862453460693
+  command: 28.910527440121307
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: 1.2616097927093506
+  command: 33.02631707442435
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: 1.422468900680542
+  command: 37.14210670872739
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: 1.5918782949447632
+  command: 41.25789634303043
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: 1.7679181098937988
+  command: 45.37368597733348
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: 1.9275081157684326
+  command: 49.48947561163652
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: 2.050081968307495
+  command: 53.60526524593956
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: 2.1363797187805176
+  command: 57.72105488024261
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: 2.196458578109741
+  command: 61.83684451454565
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: 2.2390575408935547
+  command: 65.95263414884869
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: 2.269993543624878
+  command: 70.06842378315173
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: 2.292994499206543
+  command: 74.18421341745477
+}
+calibration {
+  speed: 0.5732105068470302
+  acceleration: 2.3104755878448486
+  command: 78.30000305175781
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: -4.7954206466674805
+  command: -100.0
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: -4.964284420013428
+  command: -94.7421052631579
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: -5.126745700836182
+  command: -89.48421052631579
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: -5.266831874847412
+  command: -84.22631578947369
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: -5.3462700843811035
+  command: -78.96842105263158
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: -5.291715621948242
+  command: -73.71052631578948
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: -5.093629360198975
+  command: -68.45263157894736
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: -4.892633438110352
+  command: -63.19473684210526
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: -4.70109224319458
+  command: -57.93684210526315
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: -4.450449466705322
+  command: -52.67894736842105
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: -4.150489807128906
+  command: -47.421052631578945
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: -3.796186685562134
+  command: -42.163157894736834
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: -3.367884635925293
+  command: -36.90526315789473
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: -2.9129748344421387
+  command: -31.64736842105262
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: -2.4824559688568115
+  command: -26.389473684210515
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: -2.049665927886963
+  command: -21.13157894736841
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: -1.5881476402282715
+  command: -15.873684210526307
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: -1.1579391956329346
+  command: -10.615789473684202
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: -0.7068994045257568
+  command: -5.357894736842098
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: -0.2019975185394287
+  command: -0.1
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: 0.1372584104537964
+  command: 0.1
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: 0.20754718780517578
+  command: 4.215789634303043
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: 0.3005020022392273
+  command: 8.331579268606086
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: 0.4198334813117981
+  command: 12.44736890290913
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: 0.564816415309906
+  command: 16.563158537212175
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: 0.7284932732582092
+  command: 20.678948171515216
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: 0.8999733924865723
+  command: 24.79473780581826
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: 1.0700603723526
+  command: 28.910527440121307
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: 1.2360033988952637
+  command: 33.02631707442435
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: 1.402720332145691
+  command: 37.14210670872739
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: 1.5780751705169678
+  command: 41.25789634303043
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: 1.7578680515289307
+  command: 45.37368597733348
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: 1.9177751541137695
+  command: 49.48947561163652
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: 2.0388412475585938
+  command: 53.60526524593956
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: 2.123671531677246
+  command: 57.72105488024261
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: 2.183018445968628
+  command: 61.83684451454565
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: 2.225668430328369
+  command: 65.95263414884869
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: 2.257258415222168
+  command: 70.06842378315173
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: 2.2812931537628174
+  command: 74.18421341745477
+}
+calibration {
+  speed: 1.0464210122039443
+  acceleration: 2.2999930381774902
+  command: 78.30000305175781
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: -5.924197673797607
+  command: -100.0
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: -6.03817081451416
+  command: -94.7421052631579
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: -6.1282501220703125
+  command: -89.48421052631579
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: -6.185321807861328
+  command: -84.22631578947369
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: -6.179869651794434
+  command: -78.96842105263158
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: -6.045245170593262
+  command: -73.71052631578948
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: -5.759758949279785
+  command: -68.45263157894736
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: -5.459571838378906
+  command: -63.19473684210526
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: -5.178938388824463
+  command: -57.93684210526315
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: -4.855837345123291
+  command: -52.67894736842105
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: -4.497858047485352
+  command: -47.421052631578945
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: -4.09358549118042
+  command: -42.163157894736834
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: -3.615377187728882
+  command: -36.90526315789473
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: -3.1070504188537598
+  command: -31.64736842105262
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: -2.6270599365234375
+  command: -26.389473684210515
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: -2.1576499938964844
+  command: -21.13157894736841
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: -1.6732821464538574
+  command: -15.873684210526307
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: -1.2267847061157227
+  command: -10.615789473684202
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: -0.7562034130096436
+  command: -5.357894736842098
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: -0.25198960304260254
+  command: -0.1
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: 0.11229825019836426
+  command: 0.1
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: 0.17999374866485596
+  command: 4.215789634303043
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: 0.27058011293411255
+  command: 8.331579268606086
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: 0.3879939317703247
+  command: 12.44736890290913
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: 0.5317950248718262
+  command: 16.563158537212175
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: 0.6953356266021729
+  command: 20.678948171515216
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: 0.8679975271224976
+  command: 24.79473780581826
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: 1.0407522916793823
+  command: 28.910527440121307
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: 1.210813283920288
+  command: 33.02631707442435
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: 1.3826611042022705
+  command: 37.14210670872739
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: 1.5629020929336548
+  command: 41.25789634303043
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: 1.7451839447021484
+  command: 45.37368597733348
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: 1.9044127464294434
+  command: 49.48947561163652
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: 2.0235533714294434
+  command: 53.60526524593956
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: 2.1069750785827637
+  command: 57.72105488024261
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: 2.165909767150879
+  command: 61.83684451454565
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: 2.209022045135498
+  command: 65.95263414884869
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: 2.2416799068450928
+  command: 70.06842378315173
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: 2.26712703704834
+  command: 74.18421341745477
+}
+calibration {
+  speed: 1.5196315175608586
+  acceleration: 2.2873826026916504
+  command: 78.30000305175781
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: -6.545366287231445
+  command: -100.0
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: -6.5783467292785645
+  command: -94.7421052631579
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: -6.596195697784424
+  command: -89.48421052631579
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: -6.591571807861328
+  command: -84.22631578947369
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: -6.537631034851074
+  command: -78.96842105263158
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: -6.369293212890625
+  command: -73.71052631578948
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: -6.049485206604004
+  command: -68.45263157894736
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: -5.702391624450684
+  command: -63.19473684210526
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: -5.381213665008545
+  command: -57.93684210526315
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: -5.030393123626709
+  command: -52.67894736842105
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: -4.654338836669922
+  command: -47.421052631578945
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: -4.235439300537109
+  command: -42.163157894736834
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: -3.7391717433929443
+  command: -36.90526315789473
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: -3.206083059310913
+  command: -31.64736842105262
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: -2.7018065452575684
+  command: -26.389473684210515
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: -2.217437744140625
+  command: -21.13157894736841
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: -1.727864384651184
+  command: -15.873684210526307
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: -1.278022050857544
+  command: -10.615789473684202
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: -0.7973556518554688
+  command: -5.357894736842098
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: -0.3024322986602783
+  command: -0.1
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: 0.0901637077331543
+  command: 0.1
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: 0.1553264856338501
+  command: 4.215789634303043
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: 0.24352794885635376
+  command: 8.331579268606086
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: 0.3589262366294861
+  command: 12.44736890290913
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: 0.5013724565505981
+  command: 16.563158537212175
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: 0.6645399332046509
+  command: 20.678948171515216
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: 0.8380835056304932
+  command: 24.79473780581826
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: 1.0131020545959473
+  command: 28.910527440121307
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: 1.1866734027862549
+  command: 33.02631707442435
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: 1.3627207279205322
+  command: 37.14210670872739
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: 1.546569585800171
+  command: 41.25789634303043
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: 1.729957103729248
+  command: 45.37368597733348
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: 1.8875112533569336
+  command: 49.48947561163652
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: 2.0043325424194336
+  command: 53.60526524593956
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: 2.0863850116729736
+  command: 57.72105488024261
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: 2.1451632976531982
+  command: 61.83684451454565
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: 2.1890718936920166
+  command: 65.95263414884869
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: 2.223142147064209
+  command: 70.06842378315173
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: 2.250332832336426
+  command: 74.18421341745477
+}
+calibration {
+  speed: 1.9928420229177726
+  acceleration: 2.2724533081054688
+  command: 78.30000305175781
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: -6.774595737457275
+  command: -100.0
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: -6.775678634643555
+  command: -94.7421052631579
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: -6.768592834472656
+  command: -89.48421052631579
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: -6.745748996734619
+  command: -84.22631578947369
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: -6.681751251220703
+  command: -78.96842105263158
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: -6.513273239135742
+  command: -73.71052631578948
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: -6.189990043640137
+  command: -68.45263157894736
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: -5.821414947509766
+  command: -63.19473684210526
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: -5.479493141174316
+  command: -57.93684210526315
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: -5.117625713348389
+  command: -52.67894736842105
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: -4.737680435180664
+  command: -47.421052631578945
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: -4.316928386688232
+  command: -42.163157894736834
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: -3.8154714107513428
+  command: -36.90526315789473
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: -3.2708165645599365
+  command: -31.64736842105262
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: -2.7548182010650635
+  command: -26.389473684210515
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: -2.2666280269622803
+  command: -21.13157894736841
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: -1.7807722091674805
+  command: -15.873684210526307
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: -1.3336269855499268
+  command: -10.615789473684202
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: -0.8474581241607666
+  command: -5.357894736842098
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: -0.36683058738708496
+  command: -0.1
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: 0.07077473402023315
+  command: 0.1
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: 0.13355714082717896
+  command: 4.215789634303043
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: 0.21947407722473145
+  command: 8.331579268606086
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: 0.3328973054885864
+  command: 12.44736890290913
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: 0.4739648103713989
+  command: 16.563158537212175
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: 0.6366641521453857
+  command: 20.678948171515216
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: 0.8108915686607361
+  command: 24.79473780581826
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: 0.9877923130989075
+  command: 28.910527440121307
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: 1.1641813516616821
+  command: 33.02631707442435
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: 1.3433339595794678
+  command: 37.14210670872739
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: 1.5293664932250977
+  command: 41.25789634303043
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: 1.7124314308166504
+  command: 45.37368597733348
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: 1.8673452138900757
+  command: 49.48947561163652
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: 1.9814581871032715
+  command: 53.60526524593956
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: 2.062121629714966
+  command: 57.72105488024261
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: 2.120898485183716
+  command: 61.83684451454565
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: 2.165830612182617
+  command: 65.95263414884869
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: 2.201568126678467
+  command: 70.06842378315173
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: 2.230767011642456
+  command: 74.18421341745477
+}
+calibration {
+  speed: 2.4660525282746866
+  acceleration: 2.2550208568573
+  command: 78.30000305175781
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: -6.8545427322387695
+  command: -100.0
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: -6.848050117492676
+  command: -94.7421052631579
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: -6.835929870605469
+  command: -89.48421052631579
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: -6.81082010269165
+  command: -84.22631578947369
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: -6.749126434326172
+  command: -78.96842105263158
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: -6.590154647827148
+  command: -73.71052631578948
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: -6.272893905639648
+  command: -68.45263157894736
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: -5.890069007873535
+  command: -63.19473684210526
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: -5.531394004821777
+  command: -57.93684210526315
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: -5.1616926193237305
+  command: -52.67894736842105
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: -4.78087043762207
+  command: -47.421052631578945
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: -4.361985683441162
+  command: -42.163157894736834
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: -3.8610575199127197
+  command: -36.90526315789473
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: -3.312422752380371
+  command: -31.64736842105262
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: -2.7925689220428467
+  command: -26.389473684210515
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: -2.3075101375579834
+  command: -21.13157894736841
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: -1.8307714462280273
+  command: -15.873684210526307
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: -1.3898100852966309
+  command: -10.615789473684202
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: -0.9015030860900879
+  command: -5.357894736842098
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: -0.43958067893981934
+  command: -0.1
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: 0.053993403911590576
+  command: 0.1
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: 0.11461877822875977
+  command: 4.215789634303043
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: 0.1984497308731079
+  command: 8.331579268606086
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: 0.3100626468658447
+  command: 12.44736890290913
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: 0.4498704671859741
+  command: 16.563158537212175
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: 0.6121475100517273
+  command: 20.678948171515216
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: 0.786966860294342
+  command: 24.79473780581826
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: 0.9653976559638977
+  command: 28.910527440121307
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: 1.1438487768173218
+  command: 33.02631707442435
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: 1.3249075412750244
+  command: 37.14210670872739
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: 1.5116446018218994
+  command: 41.25789634303043
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: 1.6929945945739746
+  command: 45.37368597733348
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: 1.8443608283996582
+  command: 49.48947561163652
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: 1.9553685188293457
+  command: 53.60526524593956
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: 2.034536123275757
+  command: 57.72105488024261
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: 2.093339681625366
+  command: 61.83684451454565
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: 2.1393914222717285
+  command: 65.95263414884869
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: 2.176938772201538
+  command: 70.06842378315173
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: 2.2083261013031006
+  command: 74.18421341745477
+}
+calibration {
+  speed: 2.939263033631601
+  acceleration: 2.2349226474761963
+  command: 78.30000305175781
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: -6.886085510253906
+  command: -100.0
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: -6.878713607788086
+  command: -94.7421052631579
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: -6.866544723510742
+  command: -89.48421052631579
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: -6.842635154724121
+  command: -84.22631578947369
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: -6.785212516784668
+  command: -78.96842105263158
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: -6.636601448059082
+  command: -73.71052631578948
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: -6.327323913574219
+  command: -68.45263157894736
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: -5.931525230407715
+  command: -63.19473684210526
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: -5.55487060546875
+  command: -57.93684210526315
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: -5.176021575927734
+  command: -52.67894736842105
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: -4.793573379516602
+  command: -47.421052631578945
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: -4.377198696136475
+  command: -42.163157894736834
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: -3.879925489425659
+  command: -36.90526315789473
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: -3.3324766159057617
+  command: -31.64736842105262
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: -2.8139808177948
+  command: -26.389473684210515
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: -2.33607816696167
+  command: -21.13157894736841
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: -1.8710737228393555
+  command: -15.873684210526307
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: -1.4375717639923096
+  command: -10.615789473684202
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: -0.9492707252502441
+  command: -5.357894736842098
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: -0.5095551013946533
+  command: -0.1
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: 0.039646685123443604
+  command: 0.1
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: 0.09838998317718506
+  command: 4.215789634303043
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: 0.1804114580154419
+  command: 8.331579268606086
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: 0.2904834747314453
+  command: 12.44736890290913
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: 0.42927515506744385
+  command: 16.563158537212175
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: 0.591301441192627
+  command: 20.678948171515216
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: 0.7667122483253479
+  command: 24.79473780581826
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: 0.9463430047035217
+  command: 28.910527440121307
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: 1.1260590553283691
+  command: 33.02631707442435
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: 1.3077889680862427
+  command: 37.14210670872739
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: 1.4937951564788818
+  command: 41.25789634303043
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: 1.672149896621704
+  command: 45.37368597733348
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: 1.819148302078247
+  command: 49.48947561163652
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: 1.926641821861267
+  command: 53.60526524593956
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: 2.0041091442108154
+  command: 57.72105488024261
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: 2.062826633453369
+  command: 61.83684451454565
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: 2.1099486351013184
+  command: 65.95263414884869
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: 2.149317741394043
+  command: 70.06842378315173
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: 2.1829679012298584
+  command: 74.18421341745477
+}
+calibration {
+  speed: 3.412473538988515
+  acceleration: 2.212038040161133
+  command: 78.30000305175781
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: -6.900568962097168
+  command: -100.0
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: -6.8935017585754395
+  command: -94.7421052631579
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: -6.881860256195068
+  command: -89.48421052631579
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: -6.859100341796875
+  command: -84.22631578947369
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: -6.805099010467529
+  command: -78.96842105263158
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: -6.6653032302856445
+  command: -73.71052631578948
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: -6.3637542724609375
+  command: -68.45263157894736
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: -5.9547882080078125
+  command: -63.19473684210526
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: -5.557575702667236
+  command: -57.93684210526315
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: -5.167050361633301
+  command: -52.67894736842105
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: -4.781323432922363
+  command: -47.421052631578945
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: -4.367422580718994
+  command: -42.163157894736834
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: -3.8761675357818604
+  command: -36.90526315789473
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: -3.333880662918091
+  command: -31.64736842105262
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: -2.8201019763946533
+  command: -26.389473684210515
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: -2.351001739501953
+  command: -21.13157894736841
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: -1.8978922367095947
+  command: -15.873684210526307
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: -1.4709339141845703
+  command: -10.615789473684202
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: -0.9832057952880859
+  command: -5.357894736842098
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: -0.5675251483917236
+  command: -0.1
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: 0.027543485164642334
+  command: 0.1
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: 0.08471560478210449
+  command: 4.215789634303043
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: 0.16526275873184204
+  command: 8.331579268606086
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: 0.27414649724960327
+  command: 12.44736890290913
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: 0.41226667165756226
+  command: 16.563158537212175
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: 0.5743111371994019
+  command: 20.678948171515216
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: 0.7503740787506104
+  command: 24.79473780581826
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: 0.930878758430481
+  command: 28.910527440121307
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: 1.1110419034957886
+  command: 33.02631707442435
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: 1.2922453880310059
+  command: 37.14210670872739
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: 1.4762202501296997
+  command: 41.25789634303043
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: 1.6504733562469482
+  command: 45.37368597733348
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: 1.792396068572998
+  command: 49.48947561163652
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: 1.8959650993347168
+  command: 53.60526524593956
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: 1.971435546875
+  command: 57.72105488024261
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: 2.0298173427581787
+  command: 61.83684451454565
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: 2.077810049057007
+  command: 65.95263414884869
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: 2.118870735168457
+  command: 70.06842378315173
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: 2.1547348499298096
+  command: 74.18421341745477
+}
+calibration {
+  speed: 3.885684044345429
+  acceleration: 2.1863112449645996
+  command: 78.30000305175781
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: -6.907745838165283
+  command: -100.0
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: -6.900814056396484
+  command: -94.7421052631579
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: -6.8892436027526855
+  command: -89.48421052631579
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: -6.866804599761963
+  command: -84.22631578947369
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: -6.8147993087768555
+  command: -78.96842105263158
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: -6.681754112243652
+  command: -73.71052631578948
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: -6.387032508850098
+  command: -68.45263157894736
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: -5.964591979980469
+  command: -63.19473684210526
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: -5.544201374053955
+  command: -57.93684210526315
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: -5.139496326446533
+  command: -52.67894736842105
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: -4.7491350173950195
+  command: -47.421052631578945
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: -4.33807373046875
+  command: -42.163157894736834
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: -3.85528826713562
+  command: -36.90526315789473
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: -3.3216001987457275
+  command: -31.64736842105262
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: -2.814696788787842
+  command: -26.389473684210515
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: -2.3544206619262695
+  command: -21.13157894736841
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: -1.9116787910461426
+  command: -15.873684210526307
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: -1.4887712001800537
+  command: -10.615789473684202
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: -1.000941276550293
+  command: -5.357894736842098
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: -0.6094441413879395
+  command: -0.1
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: 0.01749098300933838
+  command: 0.1
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: 0.07342535257339478
+  command: 4.215789634303043
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: 0.15287631750106812
+  command: 8.331579268606086
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: 0.260986328125
+  command: 12.44736890290913
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: 0.39885127544403076
+  command: 16.563158537212175
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: 0.5612431764602661
+  command: 20.678948171515216
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: 0.7380392551422119
+  command: 24.79473780581826
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: 0.9190717935562134
+  command: 28.910527440121307
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: 1.0988661050796509
+  command: 33.02631707442435
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: 1.2784526348114014
+  command: 37.14210670872739
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: 1.4593024253845215
+  command: 41.25789634303043
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: 1.6285649538040161
+  command: 45.37368597733348
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: 1.764838457107544
+  command: 49.48947561163652
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: 1.8640916347503662
+  command: 53.60526524593956
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: 1.9372010231018066
+  command: 57.72105488024261
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: 1.9948794841766357
+  command: 61.83684451454565
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: 2.043403148651123
+  command: 65.95263414884869
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: 2.085880994796753
+  command: 70.06842378315173
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: 2.123774528503418
+  command: 74.18421341745477
+}
+calibration {
+  speed: 4.3588945497023435
+  acceleration: 2.1577718257904053
+  command: 78.30000305175781
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: -6.911077499389648
+  command: -100.0
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: -6.903853416442871
+  command: -94.7421052631579
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: -6.891733646392822
+  command: -89.48421052631579
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: -6.868695259094238
+  command: -84.22631578947369
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: -6.817233085632324
+  command: -78.96842105263158
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: -6.6888275146484375
+  command: -73.71052631578948
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: -6.399787902832031
+  command: -68.45263157894736
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: -5.963800430297852
+  command: -63.19473684210526
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: -5.518036842346191
+  command: -57.93684210526315
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: -5.097169876098633
+  command: -52.67894736842105
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: -4.701622486114502
+  command: -47.421052631578945
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: -4.294574737548828
+  command: -42.163157894736834
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: -3.8230555057525635
+  command: -36.90526315789473
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: -3.3011088371276855
+  command: -31.64736842105262
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: -2.8024909496307373
+  command: -26.389473684210515
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: -2.3501501083374023
+  command: -21.13157894736841
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: -1.9153904914855957
+  command: -15.873684210526307
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: -1.4933009147644043
+  command: -10.615789473684202
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: -1.0041940212249756
+  command: -5.357894736842098
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: -0.635955810546875
+  command: -0.1
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: 0.009305417537689209
+  command: 0.1
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: 0.06434977054595947
+  command: 4.215789634303043
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: 0.1431114673614502
+  command: 8.331579268606086
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: 0.2509039044380188
+  command: 12.44736890290913
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: 0.38897186517715454
+  command: 16.563158537212175
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: 0.5520577430725098
+  command: 20.678948171515216
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: 0.7296419739723206
+  command: 24.79473780581826
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: 0.9108140468597412
+  command: 28.910527440121307
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: 1.0894526243209839
+  command: 33.02631707442435
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: 1.2664947509765625
+  command: 37.14210670872739
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: 1.4433777332305908
+  command: 41.25789634303043
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: 1.6069992780685425
+  command: 45.37368597733348
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: 1.7372002601623535
+  command: 49.48947561163652
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: 1.8317921161651611
+  command: 53.60526524593956
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: 1.9021432399749756
+  command: 57.72105488024261
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: 1.9586670398712158
+  command: 61.83684451454565
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: 2.0072648525238037
+  command: 65.95263414884869
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: 2.0507514476776123
+  command: 70.06842378315173
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: 2.090353012084961
+  command: 74.18421341745477
+}
+calibration {
+  speed: 4.832105055059257
+  acceleration: 2.126556634902954
+  command: 78.30000305175781
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: -6.912028789520264
+  command: -100.0
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: -6.90407657623291
+  command: -94.7421052631579
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: -6.890796661376953
+  command: -89.48421052631579
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: -6.866268157958984
+  command: -84.22631578947369
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: -6.813956260681152
+  command: -78.96842105263158
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: -6.688119888305664
+  command: -73.71052631578948
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: -6.40345573425293
+  command: -68.45263157894736
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: -5.954140663146973
+  command: -63.19473684210526
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: -5.481431007385254
+  command: -57.93684210526315
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: -5.043153285980225
+  command: -52.67894736842105
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: -4.642827033996582
+  command: -47.421052631578945
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: -4.241787910461426
+  command: -42.163157894736834
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: -3.784564733505249
+  command: -36.90526315789473
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: -3.2771739959716797
+  command: -31.64736842105262
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: -2.7877368927001953
+  command: -26.389473684210515
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: -2.341998815536499
+  command: -21.13157894736841
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: -1.9125596284866333
+  command: -15.873684210526307
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: -1.487940788269043
+  command: -10.615789473684202
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: -0.9965085983276367
+  command: -5.357894736842098
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: -0.6501846313476562
+  command: -0.1
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: 0.0028203725814819336
+  command: 0.1
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: 0.057330965995788574
+  command: 4.215789634303043
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: 0.13582903146743774
+  command: 8.331579268606086
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: 0.24378305673599243
+  command: 12.44736890290913
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: 0.38252174854278564
+  command: 16.563158537212175
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: 0.5466201305389404
+  command: 20.678948171515216
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: 0.7249783277511597
+  command: 24.79473780581826
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: 0.9058471322059631
+  command: 28.910527440121307
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: 1.0826009511947632
+  command: 33.02631707442435
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: 1.2563745975494385
+  command: 37.14210670872739
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: 1.4287159442901611
+  command: 41.25789634303043
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: 1.5862836837768555
+  command: 45.37368597733348
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: 1.7101469039916992
+  command: 49.48947561163652
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: 1.7998042106628418
+  command: 53.60526524593956
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: 1.8670090436935425
+  command: 57.72105488024261
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: 1.9218859672546387
+  command: 61.83684451454565
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: 1.970022439956665
+  command: 65.95263414884869
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: 2.014000177383423
+  command: 70.06842378315173
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: 2.0548603534698486
+  command: 74.18421341745477
+}
+calibration {
+  speed: 5.3053155604161715
+  acceleration: 2.0929224491119385
+  command: 78.30000305175781
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: -6.911307334899902
+  command: -100.0
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: -6.902207374572754
+  command: -94.7421052631579
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: -6.887173652648926
+  command: -89.48421052631579
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: -6.860283851623535
+  command: -84.22631578947369
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: -6.805765151977539
+  command: -78.96842105263158
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: -6.680459022521973
+  command: -73.71052631578948
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: -6.3987226486206055
+  command: -68.45263157894736
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: -5.936589241027832
+  command: -63.19473684210526
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: -5.436107635498047
+  command: -57.93684210526315
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: -4.980010509490967
+  command: -52.67894736842105
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: -4.57624626159668
+  command: -47.421052631578945
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: -4.18381404876709
+  command: -42.163157894736834
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: -3.7438700199127197
+  command: -36.90526315789473
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: -3.2533836364746094
+  command: -31.64736842105262
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: -2.7736082077026367
+  command: -26.389473684210515
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: -2.332955837249756
+  command: -21.13157894736841
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: -1.906199336051941
+  command: -15.873684210526307
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: -1.4759163856506348
+  command: -10.615789473684202
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: -0.9815549850463867
+  command: -5.357894736842098
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: -0.6557738780975342
+  command: -0.1
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: -0.002107858657836914
+  command: 0.1
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: 0.0522308349609375
+  command: 4.215789634303043
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: 0.13090091943740845
+  command: 8.331579268606086
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: 0.23949992656707764
+  command: 12.44736890290913
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: 0.3793545961380005
+  command: 16.563158537212175
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: 0.5447129011154175
+  command: 20.678948171515216
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: 0.723726749420166
+  command: 24.79473780581826
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: 0.9037957787513733
+  command: 28.910527440121307
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: 1.0780253410339355
+  command: 33.02631707442435
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: 1.2480289936065674
+  command: 37.14210670872739
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: 1.415510654449463
+  command: 41.25789634303043
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: 1.5668306350708008
+  command: 45.37368597733348
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: 1.6842453479766846
+  command: 49.48947561163652
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: 1.768789291381836
+  command: 53.60526524593956
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: 1.832507610321045
+  command: 57.72105488024261
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: 1.885252833366394
+  command: 61.83684451454565
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: 1.9323575496673584
+  command: 65.95263414884869
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: 1.97623610496521
+  command: 70.06842378315173
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: 2.0178022384643555
+  command: 74.18421341745477
+}
+calibration {
+  speed: 5.778526065773086
+  acceleration: 2.057251453399658
+  command: 78.30000305175781
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: -6.909265518188477
+  command: -100.0
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: -6.898595809936523
+  command: -94.7421052631579
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: -6.881202697753906
+  command: -89.48421052631579
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: -6.851059913635254
+  command: -84.22631578947369
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: -6.792974472045898
+  command: -78.96842105263158
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: -6.666179656982422
+  command: -73.71052631578948
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: -6.38581657409668
+  command: -68.45263157894736
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: -5.911670207977295
+  command: -63.19473684210526
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: -5.3834614753723145
+  command: -57.93684210526315
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: -4.910016059875488
+  command: -52.67894736842105
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: -4.5049333572387695
+  command: -47.421052631578945
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: -4.123990058898926
+  command: -42.163157894736834
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: -3.7039599418640137
+  command: -36.90526315789473
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: -3.2321434020996094
+  command: -31.64736842105262
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: -2.762162923812866
+  command: -26.389473684210515
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: -2.3250343799591064
+  command: -21.13157894736841
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: -1.898469090461731
+  command: -15.873684210526307
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: -1.4597148895263672
+  command: -10.615789473684202
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: -0.9623453617095947
+  command: -5.357894736842098
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: -0.6558520793914795
+  command: -0.1
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: -0.005597293376922607
+  command: 0.1
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: 0.0489349365234375
+  command: 4.215789634303043
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: 0.12821608781814575
+  command: 8.331579268606086
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: 0.23792964220046997
+  command: 12.44736890290913
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: 0.37928974628448486
+  command: 16.563158537212175
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: 0.5460447072982788
+  command: 20.678948171515216
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: 0.7254721522331238
+  command: 24.79473780581826
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: 0.904208779335022
+  command: 28.910527440121307
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: 1.0753930807113647
+  command: 33.02631707442435
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: 1.2413477897644043
+  command: 37.14210670872739
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: 1.403876781463623
+  command: 41.25789634303043
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: 1.5489418506622314
+  command: 45.37368597733348
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: 1.6599407196044922
+  command: 49.48947561163652
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: 1.7392990589141846
+  command: 53.60526524593956
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: 1.7992693185806274
+  command: 57.72105488024261
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: 1.8494482040405273
+  command: 61.83684451454565
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: 1.8949648141860962
+  command: 65.95263414884869
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: 1.9381263256072998
+  command: 70.06842378315173
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: 1.9797773361206055
+  command: 74.18421341745477
+}
+calibration {
+  speed: 6.2517365711299995
+  acceleration: 2.0200419425964355
+  command: 78.30000305175781
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: -6.90604829788208
+  command: -100.0
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: -6.893362045288086
+  command: -94.7421052631579
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: -6.872960090637207
+  command: -89.48421052631579
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: -6.838621139526367
+  command: -84.22631578947369
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: -6.775578498840332
+  command: -78.96842105263158
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: -6.64530086517334
+  command: -73.71052631578948
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: -6.3647236824035645
+  command: -68.45263157894736
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: -5.879703521728516
+  command: -63.19473684210526
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: -5.324792861938477
+  command: -57.93684210526315
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: -4.835328102111816
+  command: -52.67894736842105
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: -4.43158483505249
+  command: -47.421052631578945
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: -4.064952373504639
+  command: -42.163157894736834
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: -3.6668860912323
+  command: -36.90526315789473
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: -3.2148749828338623
+  command: -31.64736842105262
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: -2.7545504570007324
+  command: -26.389473684210515
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: -2.3194222450256348
+  command: -21.13157894736841
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: -1.8907381296157837
+  command: -15.873684210526307
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: -1.4410455226898193
+  command: -10.615789473684202
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: -0.9410700798034668
+  command: -5.357894736842098
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: -0.6527378559112549
+  command: -0.1
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: -0.007738590240478516
+  command: 0.1
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: 0.04735606908798218
+  command: 4.215789634303043
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: 0.1276821494102478
+  command: 8.331579268606086
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: 0.23894596099853516
+  command: 12.44736890290913
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: 0.3821125626564026
+  command: 16.563158537212175
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: 0.5502606630325317
+  command: 20.678948171515216
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: 0.7297350764274597
+  command: 24.79473780581826
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: 0.9066008925437927
+  command: 28.910527440121307
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: 1.074359655380249
+  command: 33.02631707442435
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: 1.2361910343170166
+  command: 37.14210670872739
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: 1.393857479095459
+  command: 41.25789634303043
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: 1.5328090190887451
+  command: 45.37368597733348
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: 1.637547492980957
+  command: 49.48947561163652
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: 1.7117547988891602
+  command: 53.60526524593956
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: 1.7678148746490479
+  command: 57.72105488024261
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: 1.8150770664215088
+  command: 61.83684451454565
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: 1.858506679534912
+  command: 65.95263414884869
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: 1.900352954864502
+  command: 70.06842378315173
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: 1.9414446353912354
+  command: 74.18421341745477
+}
+calibration {
+  speed: 6.724947076486914
+  acceleration: 1.9818880558013916
+  command: 78.30000305175781
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: -6.901673316955566
+  command: -100.0
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: -6.886470794677734
+  command: -94.7421052631579
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: -6.862340927124023
+  command: -89.48421052631579
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: -6.822788238525391
+  command: -84.22631578947369
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: -6.753355503082275
+  command: -78.96842105263158
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: -6.617661476135254
+  command: -73.71052631578948
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: -6.335360527038574
+  command: -68.45263157894736
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: -5.841006278991699
+  command: -63.19473684210526
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: -5.261472702026367
+  command: -57.93684210526315
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: -4.7580766677856445
+  command: -52.67894736842105
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: -4.358562469482422
+  command: -47.421052631578945
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: -4.00869083404541
+  command: -42.163157894736834
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: -3.6339242458343506
+  command: -36.90526315789473
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: -3.2022604942321777
+  command: -31.64736842105262
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: -2.751262903213501
+  command: -26.389473684210515
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: -2.316709041595459
+  command: -21.13157894736841
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: -1.8837769031524658
+  command: -15.873684210526307
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: -1.4210050106048584
+  command: -10.615789473684202
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: -0.9192121028900146
+  command: -5.357894736842098
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: -0.6480002403259277
+  command: -0.1
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: -0.008595168590545654
+  command: 0.1
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: 0.047432661056518555
+  command: 4.215789634303043
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: 0.1292230486869812
+  command: 8.331579268606086
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: 0.24241703748703003
+  command: 12.44736890290913
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: 0.3875731825828552
+  command: 16.563158537212175
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: 0.556953489780426
+  command: 20.678948171515216
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: 0.7360010743141174
+  command: 24.79473780581826
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: 0.9104896783828735
+  command: 28.910527440121307
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: 1.0745960474014282
+  command: 33.02631707442435
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: 1.2324044704437256
+  command: 37.14210670872739
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: 1.3854331970214844
+  command: 41.25789634303043
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: 1.5185213088989258
+  command: 45.37368597733348
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: 1.617253065109253
+  command: 49.48947561163652
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: 1.6864428520202637
+  command: 53.60526524593956
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: 1.7385363578796387
+  command: 57.72105488024261
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: 1.7826370000839233
+  command: 61.83684451454565
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: 1.8235721588134766
+  command: 65.95263414884869
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: 1.863567590713501
+  command: 70.06842378315173
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: 1.9034793376922607
+  command: 74.18421341745477
+}
+calibration {
+  speed: 7.1981575818438275
+  acceleration: 1.9434435367584229
+  command: 78.30000305175781
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: -6.89605712890625
+  command: -100.0
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: -6.877769470214844
+  command: -94.7421052631579
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: -6.849106788635254
+  command: -89.48421052631579
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: -6.803232669830322
+  command: -84.22631578947369
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: -6.725951194763184
+  command: -78.96842105263158
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: -6.583026885986328
+  command: -73.71052631578948
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: -6.297712326049805
+  command: -68.45263157894736
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: -5.796039581298828
+  command: -63.19473684210526
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: -5.195023536682129
+  command: -57.93684210526315
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: -4.680362701416016
+  command: -52.67894736842105
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: -4.287874221801758
+  command: -47.421052631578945
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: -3.9566152095794678
+  command: -42.163157894736834
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: -3.605743885040283
+  command: -36.90526315789473
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: -3.194459915161133
+  command: -31.64736842105262
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: -2.752359628677368
+  command: -26.389473684210515
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: -2.3170909881591797
+  command: -21.13157894736841
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: -1.877951979637146
+  command: -15.873684210526307
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: -1.4002606868743896
+  command: -10.615789473684202
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: -0.8977253437042236
+  command: -5.357894736842098
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: -0.6426384449005127
+  command: -0.1
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: -0.008204102516174316
+  command: 0.1
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: 0.049126625061035156
+  command: 4.215789634303043
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: 0.13277417421340942
+  command: 8.331579268606086
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: 0.2481985092163086
+  command: 12.44736890290913
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: 0.3953835964202881
+  command: 16.563158537212175
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: 0.5656759142875671
+  command: 20.678948171515216
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: 0.743751585483551
+  command: 24.79473780581826
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: 0.9154275059700012
+  command: 28.910527440121307
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: 1.075807809829712
+  command: 33.02631707442435
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: 1.2298309803009033
+  command: 37.14210670872739
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: 1.3785372972488403
+  command: 41.25789634303043
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: 1.5060834884643555
+  command: 45.37368597733348
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: 1.599132776260376
+  command: 49.48947561163652
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: 1.6635212898254395
+  command: 53.60526524593956
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: 1.7116925716400146
+  command: 57.72105488024261
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: 1.7524998188018799
+  command: 61.83684451454565
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: 1.7906454801559448
+  command: 65.95263414884869
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: 1.8283510208129883
+  command: 70.06842378315173
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: 1.866528034210205
+  command: 74.18421341745477
+}
+calibration {
+  speed: 7.671368087200742
+  acceleration: 1.905380368232727
+  command: 78.30000305175781
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: -6.889044761657715
+  command: -100.0
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: -6.867018222808838
+  command: -94.7421052631579
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: -6.832912445068359
+  command: -89.48421052631579
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: -6.7795257568359375
+  command: -84.22631578947369
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: -6.692941665649414
+  command: -78.96842105263158
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: -6.541186332702637
+  command: -73.71052631578948
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: -6.251951217651367
+  command: -68.45263157894736
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: -5.745508193969727
+  command: -63.19473684210526
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: -5.127128601074219
+  command: -57.93684210526315
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: -4.604193687438965
+  command: -52.67894736842105
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: -4.221138954162598
+  command: -47.421052631578945
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: -3.9096176624298096
+  command: -42.163157894736834
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: -3.5825555324554443
+  command: -36.90526315789473
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: -3.1912899017333984
+  command: -31.64736842105262
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: -2.7576301097869873
+  command: -26.389473684210515
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: -2.3205251693725586
+  command: -21.13157894736841
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: -1.8733755350112915
+  command: -15.873684210526307
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: -1.3792095184326172
+  command: -10.615789473684202
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: -0.877199649810791
+  command: -5.357894736842098
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: -0.6372544765472412
+  command: -0.1
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: -0.006578505039215088
+  command: 0.1
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: 0.05241948366165161
+  command: 4.215789634303043
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: 0.13827461004257202
+  command: 8.331579268606086
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: 0.2561243772506714
+  command: 12.44736890290913
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: 0.40521693229675293
+  command: 16.563158537212175
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: 0.5759590864181519
+  command: 20.678948171515216
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: 0.7524920701980591
+  command: 24.79473780581826
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: 0.9210221767425537
+  command: 28.910527440121307
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: 1.077744722366333
+  command: 33.02631707442435
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: 1.2283192873001099
+  command: 37.14210670872739
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: 1.3730673789978027
+  command: 41.25789634303043
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: 1.4954324960708618
+  command: 45.37368597733348
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: 1.583169937133789
+  command: 49.48947561163652
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: 1.643036127090454
+  command: 53.60526524593956
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: 1.687416672706604
+  command: 57.72105488024261
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: 1.7249070405960083
+  command: 61.83684451454565
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: 1.7600871324539185
+  command: 65.95263414884869
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: 1.795180320739746
+  command: 70.06842378315173
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: 1.8311667442321777
+  command: 74.18421341745477
+}
+calibration {
+  speed: 8.144578592557655
+  acceleration: 1.8683421611785889
+  command: 78.30000305175781
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: -6.8804121017456055
+  command: -100.0
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: -6.853893280029297
+  command: -94.7421052631579
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: -6.813328742980957
+  command: -89.48421052631579
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: -6.7511701583862305
+  command: -84.22631578947369
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: -6.6538987159729
+  command: -78.96842105263158
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: -6.492046356201172
+  command: -73.71052631578948
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: -6.198525428771973
+  command: -68.45263157894736
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: -5.690402030944824
+  command: -63.19473684210526
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: -5.05956506729126
+  command: -57.93684210526315
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: -4.531396865844727
+  command: -52.67894736842105
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: -4.15956449508667
+  command: -47.421052631578945
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: -3.868152141571045
+  command: -42.163157894736834
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: -3.56424617767334
+  command: -36.90526315789473
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: -3.1923604011535645
+  command: -31.64736842105262
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: -2.7667179107666016
+  command: -26.389473684210515
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: -2.3268351554870605
+  command: -21.13157894736841
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: -1.870010495185852
+  command: -15.873684210526307
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: -1.35809326171875
+  command: -10.615789473684202
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: -0.8579840660095215
+  command: -5.357894736842098
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: -0.6321921348571777
+  command: -0.1
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: -0.003710508346557617
+  command: 0.1
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: 0.05730515718460083
+  command: 4.215789634303043
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: 0.14565670490264893
+  command: 8.331579268606086
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: 0.26599830389022827
+  command: 12.44736890290913
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: 0.4167105555534363
+  command: 16.563158537212175
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: 0.5873312950134277
+  command: 20.678948171515216
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: 0.7617751359939575
+  command: 24.79473780581826
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: 0.9269495606422424
+  command: 28.910527440121307
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: 1.0802046060562134
+  command: 33.02631707442435
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: 1.2277286052703857
+  command: 37.14210670872739
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: 1.3689000606536865
+  command: 41.25789634303043
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: 1.4864585399627686
+  command: 45.37368597733348
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: 1.5692774057388306
+  command: 49.48947561163652
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: 1.6249423027038574
+  command: 53.60526524593956
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: 1.6657321453094482
+  command: 57.72105488024261
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: 1.6999765634536743
+  command: 61.83684451454565
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: 1.7321288585662842
+  command: 65.95263414884869
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: 1.7644104957580566
+  command: 70.06842378315173
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: 1.7978694438934326
+  command: 74.18421341745477
+}
+calibration {
+  speed: 8.61778909791457
+  acceleration: 1.832903265953064
+  command: 78.30000305175781
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: -6.869875907897949
+  command: -100.0
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: -6.838000297546387
+  command: -94.7421052631579
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: -6.789861679077148
+  command: -89.48421052631579
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: -6.717642784118652
+  command: -84.22631578947369
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: -6.608457565307617
+  command: -78.96842105263158
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: -6.435712814331055
+  command: -73.71052631578948
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: -6.138214111328125
+  command: -68.45263157894736
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: -5.63198184967041
+  command: -63.19473684210526
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: -4.994102478027344
+  command: -57.93684210526315
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: -4.463519096374512
+  command: -52.67894736842105
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: -4.103946208953857
+  command: -47.421052631578945
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: -3.83232045173645
+  command: -42.163157894736834
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: -3.5504884719848633
+  command: -36.90526315789473
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: -3.1971704959869385
+  command: -31.64736842105262
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: -2.7791941165924072
+  command: -26.389473684210515
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: -2.3357787132263184
+  command: -21.13157894736841
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: -1.8677406311035156
+  command: -15.873684210526307
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: -1.337068796157837
+  command: -10.615789473684202
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: -0.84027099609375
+  command: -5.357894736842098
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: -0.6276326179504395
+  command: -0.1
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: 0.00042515993118286133
+  command: 0.1
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: 0.06378233432769775
+  command: 4.215789634303043
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: 0.15483474731445312
+  command: 8.331579268606086
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: 0.2775854468345642
+  command: 12.44736890290913
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: 0.42947399616241455
+  command: 16.563158537212175
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: 0.599339485168457
+  command: 20.678948171515216
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: 0.7712177634239197
+  command: 24.79473780581826
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: 0.9329568147659302
+  command: 28.910527440121307
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: 1.083030343055725
+  command: 33.02631707442435
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: 1.2279313802719116
+  command: 37.14210670872739
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: 1.3658998012542725
+  command: 41.25789634303043
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: 1.4790210723876953
+  command: 45.37368597733348
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: 1.5573195219039917
+  command: 49.48947561163652
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: 1.6091265678405762
+  command: 53.60526524593956
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: 1.6465740203857422
+  command: 57.72105488024261
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: 1.6777186393737793
+  command: 61.83684451454565
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: 1.706880807876587
+  command: 65.95263414884869
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: 1.7362686395645142
+  command: 70.06842378315173
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: 1.7669882774353027
+  command: 74.18421341745477
+}
+calibration {
+  speed: 9.090999603271484
+  acceleration: 1.7995362281799316
+  command: 78.30000305175781
+}
